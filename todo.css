@@ -1,0 +1,34 @@
+body{
+	background-color:#f08678;
+	color: f5768;
+	font-family: lato , sans-serif;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: xx-large;}
+
+}
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%
+}
+
+div{
+	display: block;
+	width: 400px;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+	color: black;
+	font-family: 'Lemonada', cursive !important;
+	text-transform: uppercase;
+}
+
+ul{
+	margin:0;
+	padding: 0;
+}vv
